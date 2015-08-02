@@ -193,7 +193,7 @@ extras_require = dict(
 install_requires = [
     'decorator',
     'pickleshare',
-    'simplegeneric>0.8',
+    'simplegeneric>=0.8',
     'traitlets',
 ]
 
